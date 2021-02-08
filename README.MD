@@ -29,7 +29,7 @@ sound.mp4
 olmalı
 
 
-Dependencies:
+## Dependencies:
 notları okumadan bot gibi dependencies kurmadan çalıştırdınız mı?
 
 boşuna mı üniversite okuyorsunuz?
@@ -58,9 +58,10 @@ pip install ffmpeg-python
 ffmpeg normal şekilde kurulu olmazsa kütüphane çalışmıyor :)))))
 
 
-## Sorun mu var?
+### Sorunları mı var?
 Evet downloader yavaş indiriyor.
-Bu sebeple link.txt girip kaydederseniz daha hızlı olur :))))
+Bu sebeple link.txt girip kaydederseniz daha hızlı olur 
 Ekran paylaşımı şeklinde yapılmış derslerde denendi.
 
-### bug var? açın öğrenin kendiniz tamir edin.
+### bug var? 
+e düzeltin.
