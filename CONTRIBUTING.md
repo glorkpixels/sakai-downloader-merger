@@ -1,4 +1,4 @@
-# Contributing to Auth0 projects
+# Contributing to sakai-downloader-merger projects
 
 A big welcome and thank you for considering contributing to Auth0 open source projects! It’s people like you that make it a reality for users in our community.
 
@@ -10,7 +10,7 @@ Reading and following these guidelines will help us make the contribution proces
 * [Getting Started](#getting-started)
     * [Issues](#issues)
     * [Pull Requests](#pull-requests)
-* [Getting Help](#getting-help)
+
 
 ## Code of Conduct
 
@@ -53,6 +53,3 @@ In general, we follow the ["fork-and-pull" Git workflow](https://github.com/susa
 6. Push changes to your fork
 7. Open a PR in our repository and follow the PR template so that we can efficiently review the changes.
 
-## Getting Help
-
-Join us in the [Auth0 Community](https://community.auth0.com) and post your question there in the correct category with a descriptive tag.
