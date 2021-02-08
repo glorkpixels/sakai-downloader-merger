@@ -1,4 +1,4 @@
-## SAKAI PARSER - DOWNLOADER - MERGER.
+## SAKAI VIDEOLARINI INDIRIN VE TEK DOSYA HALİNE GETİRİN
 
 
 İlk olarak kayıt sayfasına girin ve bir klasöre ctrl-s yaparak html dosyasını kaydedin ve py dosyalarıyla aynı klasöre atın.
@@ -12,7 +12,7 @@ downloader.py yada .exe çalıştırarak kaydetmesini sağlayın
 son olarak mergethedownloads.py yada .exe çalıştırarak iki dosyayı birleştirin.
 
 
-## Notes
+## Notlar
 Birleştirme için videoların ismi
 
 ```
@@ -25,7 +25,7 @@ sound.mp4
 olmalı
 
 
-Dependencies:
+## Dependencies:
 notları okumadan bot gibi dependencies kurmadan çalıştırdınız mı?
 
 boşuna mı üniversite okuyorsunuz?
@@ -56,7 +56,9 @@ ffmpeg normal şekilde kurulu olmazsa kütüphane çalışmıyor :)))))
 
 ## Sorun mu var?
 Evet downloader yavaş indiriyor.
+
 Bu sebeple link.txt girip kaydederseniz daha hızlı olur :))))
-Ekran paylaşımı şeklinde yapılmış derslerde denendi.
+
+***Ekran paylaşımı*** şeklinde yapılmış derslerde çalışıyor.
 
 ### bug var? açın öğrenin kendiniz tamir edin.
