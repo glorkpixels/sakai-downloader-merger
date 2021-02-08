@@ -1,37 +1,62 @@
-## Welcome to GitHub Pages
+## SAKAI PARSER - DOWNLOADER - MERGER.
 
-You can use the [editor on GitHub](https://github.com/glorkpixels/sakai-downloader-merger/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+İlk olarak kayıt sayfasına girin ve bir klasöre ctrl-s yaparak html dosyasını kaydedin ve py dosyalarıyla aynı klasöre atın.
 
-### Markdown
+ikincil olarak parselinks.py yada .exe çalıştırın
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+oluşan links içindeki urllere giderek kaydedin yada
 
-```markdown
-Syntax highlighted code block
+downloader.py yada .exe çalıştırarak kaydetmesini sağlayın
 
-# Header 1
-## Header 2
-### Header 3
+son olarak mergethedownloads.py yada .exe çalıştırarak iki dosyayı birleştirin.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Notes
+Birleştirme için videoların ismi
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
+video.mp4
+```
+ve
+```
+sound.mp4
+```
+olmalı
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+Dependencies:
+notları okumadan bot gibi dependencies kurmadan çalıştırdınız mı?
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/glorkpixels/sakai-downloader-merger/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+boşuna mı üniversite okuyorsunuz?
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+işte size listemiz:
+
+for parselinks.py :
+```
+pip install beautifulsoup4
+```
+for downloader.py :
+```
+pip install urllib3
+pip install requests
+pip install moviepy
+```
+for mergethedownloads.py:
+
+birleştirme için ilk
+```
+https://www.wikihow.com/Install-FFmpeg-on-Windows ----> bu adımları uygulayın bir reboot alalım sonra
+
+pip install ffmpeg-python
+```
+ffmpeg normal şekilde kurulu olmazsa kütüphane çalışmıyor :)))))
+
+
+## Sorun mu var?
+Evet downloader yavaş indiriyor.
+Bu sebeple link.txt girip kaydederseniz daha hızlı olur :))))
+Ekran paylaşımı şeklinde yapılmış derslerde denendi.
+
+### bug var? açın öğrenin kendiniz tamir edin.
