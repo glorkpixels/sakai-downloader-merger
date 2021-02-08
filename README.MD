@@ -1,4 +1,8 @@
 # SAKAIDEN VIDEO IZLERKEN KENDINIZI MI KESMEK İSTİYORSUNUZ SİZE BİR ÇÖZÜM
+
+
+
+
 ## SAKAI PARSER - DOWNLOADER - MERGER.
 
 İlk olarak kayıt sayfasına girin ve bir klasöre ctrl-s yaparak html dosyasını kaydedin ve py dosyalarıyla aynı klasöre atın.
