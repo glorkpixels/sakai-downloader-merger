@@ -3,10 +3,10 @@
 
 İlk olarak kayıt sayfasına girin ve bir klasöre ctrl-s yaparak html dosyasını kaydedin ve py dosyalarıyla aynı klasöre atın.
 
-ikincil olarak parselinks.py çalıştırın
+ikincil olarak parselinks.py yada .exe çalıştırın
 oluşan links içindeki urllere giderek kaydedin yada
-downloader.py çalıştırarak kaydetmesini sağlayın
-son olarak mergethedownloads.py çalıştırarak iki dosyayı birleştirin.
+downloader.py yada .exe çalıştırarak kaydetmesini sağlayın
+son olarak mergethedownloads.py yada .exe çalıştırarak iki dosyayı birleştirin.
 
 
 ## Notes
