@@ -4,8 +4,11 @@
 İlk olarak kayıt sayfasına girin ve bir klasöre ctrl-s yaparak html dosyasını kaydedin ve py dosyalarıyla aynı klasöre atın.
 
 ikincil olarak parselinks.py yada .exe çalıştırın
+
 oluşan links içindeki urllere giderek kaydedin yada
+
 downloader.py yada .exe çalıştırarak kaydetmesini sağlayın
+
 son olarak mergethedownloads.py yada .exe çalıştırarak iki dosyayı birleştirin.
 
 
@@ -23,9 +26,9 @@ olmalı
 
 
 Dependencies:
-notları okumadan
-bot gibi dependencies kurmadan çalıştırdınız mı?
-boşuna mı okuyorsunuz?
+notları okumadan bot gibi dependencies kurmadan çalıştırdınız mı?
+
+boşuna mı üniversite okuyorsunuz?
 
 
 işte size listemiz:
