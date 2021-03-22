@@ -20,15 +20,14 @@ try:
     try:
         print("sound Downloading starts...\n")
         sleep(1)
-        urllib.request.urlretrieve(link1, name2)
-        resp = urllib.urlopen(link1)
+        resp = urllib.request.urlopen(link1)
         respHtml = resp.read()
         binfile = open(name2, "wb")
         binfile.write(respHtml)
         binfile.close()
         print("sound Download completed..!!")
     except Exception as e:
-            print(e)
+        print(e)
 
 
     try:
