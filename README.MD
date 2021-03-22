@@ -89,7 +89,9 @@ ffmpeg normal şekilde kurulu olmazsa kütüphane çalışmıyor :)))))
 
 ### Sorunları mı var?
 Evet downloader yavaş indiriyor.
+
 Bu sebeple link.txt girip kaydederseniz daha hızlı olur
+
 ~~Ekran paylaşımı şeklinde yapılmış derslerde denendi.~~ Her derste çalışır. Yani. Büyük ihtimalle.
 
 ### bug var?
