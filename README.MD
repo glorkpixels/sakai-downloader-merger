@@ -77,7 +77,7 @@ pip install moviepy
 ```
 for mergethedownloads.py:
 
-birleştirme için ilk
+# En ÖNEMLİ yapmanız gereken yükleme ffmpeg
 ```
 https://www.wikihow.com/Install-FFmpeg-on-Windows ----> bu adımları uygulayın bir reboot alalım sonra
 
